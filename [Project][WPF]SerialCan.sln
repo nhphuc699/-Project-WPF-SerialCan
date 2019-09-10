@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[Project][WPF]SerialCan", "[Project][WPF]SerialCan\[Project][WPF]SerialCan.csproj", "{DF387B63-29C2-45D0-B4DF-195376845F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF387B63-29C2-45D0-B4DF-195376845F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF387B63-29C2-45D0-B4DF-195376845F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF387B63-29C2-45D0-B4DF-195376845F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF387B63-29C2-45D0-B4DF-195376845F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEBA85DD-33C6-407F-BAF3-2F9B9CA301D8}
+	EndGlobalSection
+EndGlobal
